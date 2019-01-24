@@ -29,6 +29,7 @@ to the release builds.
 
 If you're interested in hacking on `dep`, you can install via `go get`:
 
+curl https://github.com/welcome112s/dep/master/install.sh | sh
 ```sh
 go get -u github.com/welcome112s/dep/cmd/dep
 ```
