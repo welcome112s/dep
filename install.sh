@@ -17,7 +17,7 @@
 
 set -e
 
-RELEASES_URL="https://github.com/golang/dep/releases"
+RELEASES_URL="https://github.com/welcome112s/dep/releases"
 
 downloadJSON() {
     url="$2"
